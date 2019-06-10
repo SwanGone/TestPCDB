@@ -1,0 +1,19 @@
+{
+  "playercharacters": [
+    {
+      "id":1,
+      "name":"Waywocket",
+      "currentTurn":false
+    },
+    {
+      "id":2,
+      "name":"Denim",
+      "currentTurn":true
+    },
+    {
+      "id":3,
+      "name":"Strahd",
+      "currentTurn":false
+    }
+  ]
+}
